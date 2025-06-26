@@ -1,18 +1,14 @@
 <div align="center">
   <a href="https://github.com/Insta092">
-    <img height="100px" src="https://github-readme-stats.vercel.app/api?username=Insta092&show_icons=true&theme=dark&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=Insta092&show_icons=true&theme=dark&count_private=true">
   </a>
   <a>
     <img 
       align="left" 
-      alt="GitHub Stats" 
-      height="100px" 
+      alt="GitHub Stats"  
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Insta092&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9">
   </a>
-
 </div>
-
- 
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UC8lUkrSkXS8GXctDt9aEwPA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/henriqueganeo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
