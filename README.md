@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://github.com/lucaZz092">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Insta092&show_icons=true&theme=dark&count_private=true">
+    <img height="100px" src="https://github-readme-stats.vercel.app/api?username=Insta092&show_icons=true&theme=dark&count_private=true">
   </a>
   <a>
     <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180px" 
+      height="100px" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Insta092&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9">
   </a>
 
