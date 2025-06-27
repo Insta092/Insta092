@@ -1,15 +1,18 @@
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://github.com/Insta092">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=Insta092&show_icons=true&theme=dark&count_private=true" 
-      alt="Estatísticas do GitHub" />
+      src="https://github-readme-stats.vercel.app/api?username=Insta092&show_icons=true&theme=dark&count_private=true&hide_title=true&card_width=400" 
+      alt="Estatísticas do GitHub" 
+      width="400" />
   </a>
   <a href="https://github.com/Insta092">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Insta092&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-      alt="Linguagens mais usadas" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Insta092&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&card_width=400" 
+      alt="Linguagens mais usadas" 
+      width="400" />
   </a>
 </div>
+
 
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UC8lUkrSkXS8GXctDt9aEwPA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
